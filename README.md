@@ -49,7 +49,7 @@ I believe the gap between paper benchmarks and production performance is real, a
 
 **AI R&D**
 
-- **WIGVO** — Real-time bidirectional speech translation over PSTN. Dual-session + 3-stage echo filter, 0 echo loops in 147 live calls, 557ms latency, $0.27/min (ACL 2026 Under Review, 2nd Author) [Repo](https://github.com/wigtn/wigvo-v2)
+- **WIGVO** — Real-time bidirectional speech translation over PSTN. Dual-session + 3-stage echo filter, 0 echo loops in 147 live calls, 557ms latency, $0.27/min (ACL 2026 Demo Accepted, 2nd Author, Rating 7.50) [Repo](https://github.com/wigtn/wigvo-v2)
 - **WigtnOCR** — VLM-based Korean public document parser, 2B model matching 30B Teacher quality [Repo](https://github.com/wigtn/wigtnOCR-v1)
 
 **Open Source**
