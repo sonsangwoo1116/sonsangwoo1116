@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangwooson)
 [![WIGTN](https://img.shields.io/badge/WIGTN.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://wigtn.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/3437d23f3681805e895ff003d02adbd5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://sonsangwoo1116.github.io/portfolio/)
 
 ---
 
