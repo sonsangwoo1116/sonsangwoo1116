@@ -54,7 +54,7 @@ LLM agents that hold up in production, including tool-calling control and guardr
 - **Google Cloud Rapid Agent Hackathon** — [Custos](https://devpost.com/software/wigtn-bot): always-on AI code review bot for GitLab.
 - **H0: Hack the Zero Stack · Vercel × AWS** — [OpenSlot](https://devpost.com/software/openslot): zero-oversell ticketing infrastructure.
 - **Gemini Live Agent Challenge · Google** — [TimeLens](https://github.com/wigtn/wigtn-timelens): multimodal AI museum curator with voice and camera.
-- 🏅 **International oneM2M Hackathon 2022 · Encouragement Award** — travel logging with biometric data from IoT wearables.
+- 🏅 **International oneM2M Hackathon 2022 (Nov) · Encouragement Award** — travel logging with biometric data from IoT wearables.
 
 ---
 
