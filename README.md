@@ -66,5 +66,5 @@ LLM agents that hold up in production, including tool-calling control and guardr
 ### Patents & Software
 
 - IoT-Based Metaverse Management Platform · Patent application No. 10-2023-0189803 (2023.12)
-- Metaverse Emotion Mapping System Using an AIoT Facial-Expression Device · Software registration No. C-2023-054487
-- LSTM-Based Walking Motion Recognition in Industrial Sites Using YOLOv7 Pose Estimation · Software registration No. C-2023-049743
+- Metaverse Emotion Mapping System Using an AIoT Facial-Expression Device · Software registration No. C-2023-054487 (2023.11)
+- LSTM-Based Walking Motion Recognition in Industrial Sites Using YOLOv7 Pose Estimation · Software registration No. C-2023-049743 (2023.11)
